@@ -192,15 +192,15 @@ function corroborartipoPaquete() {
 function corroborarDireccion() {
 
 }
-
+/*
 window.addEventListener('DOMContentLoaded', () => { 
-    if(isUserLogged() ===false) { 
+    if(isUserLogged() === false) { 
         document.getElementById('formulario-citas').classList.remove('d-none') 
         return; 
     } 
     window.location.href = window.location.origin + '/html/login.html' 
 });
-
+*/
 
 
 
